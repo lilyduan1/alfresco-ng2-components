@@ -1,10 +1,13 @@
 {
   "FORM": {
     "START_FORM": {
-      "TITLE": "Inizia"
+      "TITLE": "Modulo di inizio"
     },
     "PREVIEW": {
-      "IMAGE_NOT_AVAILABLE": "Anteprima immagine non disponibile."
+      "IMAGE_NOT_AVAILABLE": "Anteprima non disponibile"
+    },
+    "FIELD": {
+      "REQUIRED": "*Obbligatorio"
     }
   }
 }
